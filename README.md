@@ -50,7 +50,7 @@ To deliver an interactive visual tool that:
 6. Screenshots / Demos
 Preview of the dashboard:  
 
-"C:\Users\DELL\OneDrive\Pictures\Screenshots 1\Data_professionals_survey_report.png"
+<img width="1238" height="698" alt="Data_professionals_survey_report" src="https://github.com/user-attachments/assets/92a0bb4c-6d0e-4ac8-a4c9-1dc8f0269be8" />
 ---
 
 7. How to Use
