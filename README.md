@@ -50,7 +50,7 @@ To deliver an interactive visual tool that:
 6. Screenshots / Demos
 Preview of the dashboard:  
 
-https://1drv.ms/i/c/2dfa6868dce89b65/EcdKdX7CyYZJgM09rqKW0O0BcnlVqTVey0jKAzQ3nwER4A?e=RD1VVU
+"C:\Users\DELL\OneDrive\Pictures\Screenshots 1\Data_professionals_survey_report.png"
 ---
 
 7. How to Use
